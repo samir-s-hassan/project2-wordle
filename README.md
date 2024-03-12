@@ -28,9 +28,7 @@ N/A
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[VIDEO]](https://www.loom.com/share/47d456be096d4f0e838874fe798536a0?sid=91e868cb-44d1-4820-b8e9-185f04752de9) .
+[VIDEO]]() .
 
 ## Notes
 

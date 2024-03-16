@@ -1,5 +1,3 @@
-# ios101-project2-wordle-starter
-
 # Project 2 - Wordle pt.2
 
 Submitted by: Samir Hassan

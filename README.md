@@ -1,4 +1,4 @@
-# Project 2 - Wordle pt.2
+# Wordle pt.2
 
 Submitted by: Samir Hassan
 
